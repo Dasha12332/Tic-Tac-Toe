@@ -1,0 +1,51 @@
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.exe
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.deps.json
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.runtimeconfig.json
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.runtimeconfig.dev.json
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.dll
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.pdb
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.csproj.AssemblyReference.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень_2.Form1.resources
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.csproj.GenerateResource.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.AssemblyInfoInputs.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.AssemblyInfo.cs
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.dll
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.pdb
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.genruntimeconfig.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень_2.Properties.Resources.resources
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.exe
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.deps.json
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.runtimeconfig.json
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.runtimeconfig.dev.json
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.dll
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.pdb
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.csproj.AssemblyReference.cache
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень_2.Form1.resources
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень_2.Properties.Resources.resources
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.csproj.GenerateResource.cache
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.AssemblyInfoInputs.cache
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.AssemblyInfo.cs
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.dll
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.pdb
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.genruntimeconfig.cache
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.exe
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.deps.json
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.runtimeconfig.json
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.runtimeconfig.dev.json
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.dll
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\bin\Debug\netcoreapp3.1\Уровень 2.pdb
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.csproj.AssemblyReference.cache
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень_2.Form1.resources
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень_2.Properties.Resources.resources
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.csproj.GenerateResource.cache
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.AssemblyInfoInputs.cache
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.AssemblyInfo.cs
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.dll
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.pdb
+C:\Users\Даша\Desktop\Учеба\2 семестр\ООП\Лр4\Лр4\Уровень 2\obj\Debug\netcoreapp3.1\Уровень 2.genruntimeconfig.cache
