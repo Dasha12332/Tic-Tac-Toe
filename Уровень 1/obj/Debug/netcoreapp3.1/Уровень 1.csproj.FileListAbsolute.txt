@@ -1,0 +1,17 @@
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\bin\Debug\netcoreapp3.1\Уровень 1.exe
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\bin\Debug\netcoreapp3.1\Уровень 1.deps.json
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\bin\Debug\netcoreapp3.1\Уровень 1.runtimeconfig.json
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\bin\Debug\netcoreapp3.1\Уровень 1.runtimeconfig.dev.json
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\bin\Debug\netcoreapp3.1\Уровень 1.dll
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\bin\Debug\netcoreapp3.1\Уровень 1.pdb
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень 1.csproj.AssemblyReference.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень_1.Form1.resources
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень 1.csproj.GenerateResource.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень 1.AssemblyInfoInputs.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень 1.AssemblyInfo.cs
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень 1.csproj.CoreCompileInputs.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень 1.dll
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень 1.pdb
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень 1.genruntimeconfig.cache
+C:\Users\Даша\Desktop\Лр 4\Уровень 1\obj\Debug\netcoreapp3.1\Уровень_1.Properties.Resources.resources
